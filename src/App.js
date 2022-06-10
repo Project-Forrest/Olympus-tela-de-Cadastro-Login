@@ -6,7 +6,7 @@ import { Routes} from './Routes';
 import './App.css';
 
 function App(){
-  const [user, setUser] = useState(null);
+  const [user] = useState(null);
 
   if(user === null){
     return (
