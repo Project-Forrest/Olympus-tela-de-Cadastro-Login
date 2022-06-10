@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a772983f.css","mappings":"AAAA,KAEE,uBAAwB,CACxB,qBAAsB,CAFtB,QAGF","sources":["App.css"],"sourcesContent":["body{\r\n  margin: 0;\r\n  front-family: sans-serif;\r\n  background-color: #eee;\r\n}"],"names":[],"sourceRoot":""}
